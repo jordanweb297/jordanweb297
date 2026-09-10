@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Jordan (@jordanweb297)
 
-<!--
-**jordanweb297/jordanweb297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software dev out of Austin, TX. I build backend services, write developer tooling, and spend free time contributing to open source projects across the Go and Python ecosystems.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Writing CLI tools and distributed services in Go
+- Building and maintaining async web backends with Python
+- Containerizing workflows with Docker
+- Tinkering with my Neovim config instead of going to bed on time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack & Tools
+- **Languages:** Go, Python, JavaScript / TypeScript, Bash, SQL
+- **DevOps / Environment:** Docker, Linux, GitHub Actions, PostgreSQL, Neovim
+
+#### Get in touch
+- Open an issue or discussion on one of my repos
+- Email: jordanweb297.dev@gmail.com
